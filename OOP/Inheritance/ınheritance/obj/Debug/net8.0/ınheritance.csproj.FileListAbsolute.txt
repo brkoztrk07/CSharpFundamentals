@@ -1,0 +1,15 @@
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\bin\Debug\net8.0\ınheritance.exe
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\bin\Debug\net8.0\ınheritance.deps.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\bin\Debug\net8.0\ınheritance.runtimeconfig.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\bin\Debug\net8.0\ınheritance.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\bin\Debug\net8.0\ınheritance.pdb
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\obj\Debug\net8.0\ınheritance.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\obj\Debug\net8.0\ınheritance.AssemblyInfoInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\obj\Debug\net8.0\ınheritance.AssemblyInfo.cs
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\obj\Debug\net8.0\ınheritance.csproj.CoreCompileInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\obj\Debug\net8.0\ınheritance.sourcelink.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\obj\Debug\net8.0\ınheritance.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\obj\Debug\net8.0\refint\ınheritance.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\obj\Debug\net8.0\ınheritance.pdb
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\obj\Debug\net8.0\ınheritance.genruntimeconfig.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\ınheritance\obj\Debug\net8.0\ref\ınheritance.dll

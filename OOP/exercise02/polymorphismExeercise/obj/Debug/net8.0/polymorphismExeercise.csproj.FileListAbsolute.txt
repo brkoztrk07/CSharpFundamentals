@@ -1,0 +1,15 @@
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\bin\Debug\net8.0\polymorphismExeercise.exe
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\bin\Debug\net8.0\polymorphismExeercise.deps.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\bin\Debug\net8.0\polymorphismExeercise.runtimeconfig.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\bin\Debug\net8.0\polymorphismExeercise.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\bin\Debug\net8.0\polymorphismExeercise.pdb
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\obj\Debug\net8.0\polymorphismExeercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\obj\Debug\net8.0\polymorphismExeercise.AssemblyInfoInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\obj\Debug\net8.0\polymorphismExeercise.AssemblyInfo.cs
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\obj\Debug\net8.0\polymorphismExeercise.csproj.CoreCompileInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\obj\Debug\net8.0\polymorphismExeercise.sourcelink.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\obj\Debug\net8.0\polymorphismExeercise.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\obj\Debug\net8.0\refint\polymorphismExeercise.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\obj\Debug\net8.0\polymorphismExeercise.pdb
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\obj\Debug\net8.0\polymorphismExeercise.genruntimeconfig.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\exercise02\polymorphismExeercise\obj\Debug\net8.0\ref\polymorphismExeercise.dll

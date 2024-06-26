@@ -1,0 +1,15 @@
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\bin\Debug\net8.0\exercise2.exe
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\bin\Debug\net8.0\exercise2.deps.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\bin\Debug\net8.0\exercise2.runtimeconfig.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\bin\Debug\net8.0\exercise2.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\bin\Debug\net8.0\exercise2.pdb
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\obj\Debug\net8.0\exercise2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\obj\Debug\net8.0\exercise2.AssemblyInfoInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\obj\Debug\net8.0\exercise2.AssemblyInfo.cs
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\obj\Debug\net8.0\exercise2.csproj.CoreCompileInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\obj\Debug\net8.0\exercise2.sourcelink.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\obj\Debug\net8.0\exercise2.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\obj\Debug\net8.0\refint\exercise2.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\obj\Debug\net8.0\exercise2.pdb
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\obj\Debug\net8.0\exercise2.genruntimeconfig.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Inheritance\exercise_inherit\exercise2\obj\Debug\net8.0\ref\exercise2.dll

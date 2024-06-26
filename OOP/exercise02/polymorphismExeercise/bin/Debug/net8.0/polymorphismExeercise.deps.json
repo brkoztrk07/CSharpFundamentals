@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "polymorphismExeercise/1.0.0": {
+        "runtime": {
+          "polymorphismExeercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "polymorphismExeercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+ORM Nedir ?
+Yazılım uygulamalarında veriler fiziksel olarak veri tabanlarında tutulmaktadır.
+Haliyle yazılım ile veritabanı arasında sürekli bir bağlantı üzerinden iletişim sağlanmalıdır.
+Yazılım dış dünyadan elde ettiği verileri veritabanına işleyebilsin ya da veritabanındaki verileri
+istediği zaman elde edebilsin.
+İşte böyle bir durumda yazılım ile veritabanı arasında biraz önce bahsedildiği üzere bir bağlantı
+kurularak tüm verisel trafik gerçekleştirilir.
