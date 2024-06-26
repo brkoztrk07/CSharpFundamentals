@@ -15,4 +15,4 @@ This repository contains information and resources about C# programming language
 Sorry for the lack of topics. I will add more content as I review.
 
 ## Author
-- [Created by burakozturk05](https://github.com/burakozturk05):
+- [Created by burakozturk05](https://github.com/brkoztrk07):
