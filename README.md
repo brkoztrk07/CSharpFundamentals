@@ -12,7 +12,7 @@ This repository contains information and resources about C# programming language
   - 
 
 ## Updates
-Sorry for the lack of topics. I will add more content as I review and learn new topics.
+Sorry for the lack of topics. I will add more content as I review.
 
 ## Author
 - [Created by burakozturk05](https://github.com/burakozturk05):
