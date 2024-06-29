@@ -1,0 +1,44 @@
+1-dotnet new = Yeni bir .net projesi oluşturmak için kullanılır.
+dotnet new mvc -n ProjeAdi
+
+2-dotnet build = Proje veya çözümü derlemek için kullanılır.
+
+3-dotnet run = proje dosyasını çalıştırmak için kuallnılır.
+
+4-dotnet test =Test projelerini çalıştırmak için kullanılır.
+
+5-dotnet restore =Projedeki tüm bağımlılıkları geri yüklemek için kullanılır. Proje oluşturulduğunda  eklendiğinde genellikle otomatik olarak çalışır.
+
+6-dotnet publish = Uygulamayı yayımlamak için kullanılır. Uygulamayı derler ve yayımlanabilir bir çıktı oluşturur.
+dotnet publish -c Release
+
+7-dotnet clean = Derleme çıktısını temizlemek için kullanılır.
+
+8-dotnet add package Bir Nuget paketini projeye eklemek içn.
+dotnet add package Paketadi
+
+9-dotnet remove package Bir Nuget paketini projeden cikarmak için
+
+10-dotnet list package Yüklü olan Nuget package lists.
+dotnet list package
+11-dotnet sln = Çözüm dosyasıyla ilgili komutları yönetmek için kullanılır.
+
+dotnet new sln -n CozumAdi = Projeyi çözüm dosyasına ekleme:
+
+dotnet sln CozumAdi.sln add ProjeAdi/ProjeAdi.csproj
+
+12-dotnet watch = Kodu izlemek ve değişiklik yapıldığında otomatik olarak yeniden derlemek ve çalıştırmak için kullanılır.
+dotnet watch run
+13-dotnet ef = EF core komutlarını kullanmajk için eklenmiş komuttur.
+EF CORE YÜKLÜ OLMALIDIR!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+dotnet tool install --global dotnet-ef
+
+yeni migration için 
+
+dotnet ef migrations add MigrationAdi
+migration u veritabanına uygulama 
+dotnet ef database update
+
+dotnet tool  = .net araçlarını yönetmek için
+
+
